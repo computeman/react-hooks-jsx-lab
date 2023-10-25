@@ -4,4 +4,7 @@ const city = "New York";
 
 const image = "https://i.imgur.com/mV8PQxj.gif";
 
-export { name, city, image };
+const headingStyle = {
+    color: "firebrick"
+}
+export { name, city, image, headingStyle };
